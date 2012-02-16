@@ -1,0 +1,7 @@
+Companion code for blog post: http://bayu.freelancer.web.id/2012/02/16/membuat-website-launcher-pada-android/
+
+About how to create website launcher in android with features:
+ * handle back button
+ * handle open url in app
+ * add zoom control
+ * handle progress bar
